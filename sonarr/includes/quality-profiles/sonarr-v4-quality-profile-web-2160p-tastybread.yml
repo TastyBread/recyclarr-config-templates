@@ -6,7 +6,7 @@ quality_profiles:
         - TastyBread- Release Groups (FLUX)
         - TastyBread- Release Groups (Kitsune)
         - TastyBread- Release Groups (HONE)
-        - TastyBread- Release Groups (NTb
+        - TastyBread- Release Groups (NTb)
     upgrade:
       allowed: true
       until_quality: WEB 2160p
