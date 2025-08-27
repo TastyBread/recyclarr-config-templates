@@ -1,0 +1,37 @@
+quality_profiles:
+  - name: WEB-1080p
+    reset_unmatched_scores:
+      enabled: true
+      except:
+        - TastyBread- Release Groups (FLUX)
+        - TastyBread- Release Groups (NTb)
+        - TastyBread- Release Groups (Kitsune)
+        - TastyBread- Release Groups (HONE)
+    upgrade:
+      allowed: true
+      until_quality: WEB 1080p
+      until_score: 10000
+    min_format_score: 0
+    quality_sort: top
+    qualities:
+      - name: WEB 1080p
+        qualities:
+          - WEBDL-1080p
+          - WEBRip-1080p
+      - name: Bluray-1080p
+      - name: Bluray-1080p Remux
+      - name: HDTV-1080p
+      - name: WEB 720p
+        qualities:
+          - WEBDL-720p
+          - WEBRip-720p
+      - name: Bluray-720p
+      - name: HDTV-720p
+      - name: Bluray-576p
+      - name: WEB 480p
+        qualities:
+          - WEBDL-480p
+          - WEBRip-480p
+      - name: Bluray-480p
+      - name: DVD
+      - name: SDTV
