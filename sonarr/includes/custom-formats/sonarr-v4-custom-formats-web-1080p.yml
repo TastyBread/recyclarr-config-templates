@@ -39,4 +39,7 @@ custom_formats:
       - d0c516558625b04b363fa6c5c2c7cfd4 # WEB Scene
     assign_scores_to:
       - name: WEB-1080p
+      - name: WEB-1080p-FLUX
+      - name: WEB-1080p-Kitsune
+      - name: WEB-1080p-HONE
       - name: WEB-1080p-NTb
