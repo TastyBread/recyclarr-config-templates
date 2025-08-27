@@ -335,6 +335,10 @@
       "id": "sonarr-v4-quality-profile-web-1080p-alternative"
     },
     {
+      "template": "sonarr/includes/quality-profiles/sonarr-v4-quality-profile-web-1080p-tastybread.yml",
+      "id": "sonarr-v4-quality-profile-web-1080p-tastybread"
+    },
+    {
       "template": "sonarr/includes/quality-profiles/sonarr-v4-quality-profile-bluray-web-1080p-french-vostfr.yml",
       "id": "sonarr-v4-quality-profile-bluray-web-1080p-french-vostfr"
     },
@@ -353,6 +357,10 @@
     {
       "template": "sonarr/includes/quality-profiles/sonarr-v4-quality-profile-web-2160p-alternative.yml",
       "id": "sonarr-v4-quality-profile-web-2160p-alternative"
+    },
+    {
+      "template": "sonarr/includes/quality-profiles/sonarr-v4-quality-profile-web-2160p-tastybread.yml",
+      "id": "sonarr-v4-quality-profile-web-2160p-tastybread"
     },
     {
       "template": "sonarr/includes/quality-profiles/sonarr-v4-quality-profile-bluray-web-2160p-french-vostfr.yml",
